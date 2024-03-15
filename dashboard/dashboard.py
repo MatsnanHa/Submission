@@ -5,7 +5,7 @@ import seaborn as sns
 import streamlit as st
 
 # Load data
-hour_df = pd.read_csv("https://raw.githubusercontent.com/MatsnanHa/Submission/main/data/hour.csv")
+hour_df = pd.read_csv('./hour.csv')
 
 # Drop unnecessary columns
 drop_col = ['instant']
