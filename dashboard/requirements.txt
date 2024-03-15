@@ -1,5 +1,0 @@
-calendar
-pandas
-matplotlib.pyplot
-seaborn
-streamlit
